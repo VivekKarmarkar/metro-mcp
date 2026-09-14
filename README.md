@@ -6,7 +6,7 @@ Exploring the Metro MCP server's NYC subway tools from inside Claude Code, one t
 
 The problem this project set out to solve is in [`problem_statement.md`](problem_statement.md): you are working on a coding project, you want to get somewhere (dinner, a shop, a friend's place), and you do not want to switch context to a maps app. The coding agent should do it. The Metro MCP exposes the MTA's live data as tools; the work here is converting human intent ("I'm at X, take me to Y") into repeatable, reliable results through those tools — first by testing each tool, then by writing small single-purpose skills, then a composite skill that reuses them.
 
-Everything is recorded in markdown: the tool tests, the skill blueprint, the skill tests (written before they are run), the results with every output and every board reproduced verbatim, and the audit tables from independent reviewer agents. The skills themselves live in `~/.claude/skills/` and are mirrored in the [claude-code-os](https://github.com/VivekKarmarkar/claude-code-os) repo; this repo is the lab notebook.
+Everything is recorded in markdown: the tool tests, the skill blueprint, the skill tests (written before they are run), the results with every output and every board reproduced verbatim, and the audit tables from independent reviewer agents. The skills themselves live in `~/.claude/skills/` and are mirrored in my claude-code-os repo (private); copies are in `skills/` here, and `website/` is the project page. This repo is the lab notebook.
 
 ## What is here
 
@@ -34,13 +34,11 @@ Everything is recorded in markdown: the tool tests, the skill blueprint, the ski
 
 ### Installing the skills
 
-Copy the five skill folders from the claude-code-os repo into `~/.claude/skills/`:
+Copies of the five skills are in `skills/` here (the live ones are in `~/.claude/skills/`, mirrored in the claude-code-os repo, which is private). Copy them into `~/.claude/skills/`:
 
 ```bash
-git clone https://github.com/VivekKarmarkar/claude-code-os
-for s in check-delay get-route-info get-train-board find-nearest-station find-metro; do
-  cp -r claude-code-os/skills/$s ~/.claude/skills/
-done
+git clone https://github.com/VivekKarmarkar/metro-mcp
+cp -r metro-mcp/skills/* ~/.claude/skills/
 ```
 
 ### Usage
@@ -94,6 +92,8 @@ metro_mcp_nyc_subway_tools_skills_test_results.md      every run's outputs, boar
 context_anchor.md                                      the project's timestamped decision log, in the author's words
 plots/                                                 map, strip map and board scripts and their outputs
 plots/geo/                                             NYC Planning borough polygons, Census county outlines
+skills/                                                copies of the five skills (check-delay, get-route-info, get-train-board, find-nearest-station, find-metro)
+website/                                               the project page (index.html) and its images
 ```
 
 ## Tech stack

@@ -25,3 +25,7 @@ tmp/
 # Personal files, kept local
 Telegram_calls.md
 affection.md
+
+# Playwright MCP scratch
+.playwright-mcp/
+hero_metro_render.png

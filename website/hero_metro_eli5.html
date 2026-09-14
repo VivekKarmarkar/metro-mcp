@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<title>The Booth Agent (grid)</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;700&display=swap">
+<style>
+  :root {
+    --paper: #201c15; --card: #2a251c; --ink: #f2ecdf; --muted: #a99c85;
+    --line: #3d362a; --orange: #ff7a45; --orange-soft: #4a2e1f;
+    --blue: #8fade8; --blue-soft: #2b3650; --tan: #6b604c; --green: #7fc48a;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'Nunito', system-ui, sans-serif; line-height: 1.55; }
+  .wrap { max-width: 1460px; margin: 0 auto; padding: 48px 22px 56px; }
+  .head { display: flex; align-items: baseline; gap: 24px; flex-wrap: wrap; margin-bottom: 34px; }
+  h1 { font-family: 'Fredoka', system-ui, sans-serif; font-weight: 600; font-size: clamp(30px, 6vw, 44px); line-height: 1.1; margin: 0; text-wrap: balance; }
+  .sub { color: var(--muted); font-size: 17px; margin: 0; max-width: 52ch; }
+  .grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 26px; align-items: stretch; }
+  .step { background: var(--card); border: 2px solid var(--line); border-radius: 18px; padding: 26px 26px 30px; display: flex; flex-direction: column; }
+  .step svg { width: 100%; height: auto; display: block; margin-bottom: 18px; }
+  .who { font-family: 'Fredoka', system-ui, sans-serif; font-weight: 500; font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px; }
+  .who.you { color: var(--orange); }
+  .who.claude { color: var(--blue); }
+  .who.result { color: var(--green); }
+  .step p { margin: 0; font-size: 18px; max-width: 52ch; }
+  .step p b { font-weight: 700; }
+  .tools { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 8px; }
+  .tool { display: inline-block; font-family: 'Fredoka', system-ui, sans-serif; font-weight: 500; font-size: 13px; background: var(--orange-soft); color: var(--orange); border-radius: 999px; padding: 3px 12px; }
+  .tool.skill { background: var(--blue-soft); color: var(--blue); }
+  .answer { margin: 0 0 18px; padding: 16px 18px; background: var(--paper); border: 3px solid var(--green); border-radius: 14px; color: var(--ink); font-family: 'Fredoka', system-ui, sans-serif; font-weight: 500; font-size: 17px; line-height: 1.5; white-space: pre-wrap; }
+  .answer .delay { color: var(--orange); }
+  .answer .alt { color: var(--muted); font-size: 15px; }
+  .foot { color: var(--muted); font-size: 14px; margin-top: 36px; text-align: center; }
+  @media (max-width: 900px) { .grid3 { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <h1>The Booth Agent</h1>
+    <p class="sub">How I get you across New York with the Metro MCP — you never leave the code.</p>
+  </div>
+  <div class="grid3">
+    <div class="step">
+      <svg viewBox="0 0 600 230" role="img" aria-label="Vivek, at his laptop, says where he is and where he wants to go">
+        <rect x="30" y="150" width="150" height="60" rx="8" fill="var(--blue-soft)"/>
+        <rect x="45" y="160" width="120" height="40" rx="4" fill="var(--paper)"/>
+        <text x="58" y="186" font-family="Nunito, sans-serif" font-size="13" fill="var(--green)">$ claude ▍</text>
+        <circle cx="105" cy="90" r="46" fill="var(--orange)"/>
+        <circle cx="89" cy="82" r="6" fill="var(--paper)"/>
+        <circle cx="121" cy="82" r="6" fill="var(--paper)"/>
+        <path d="M89 104 Q105 118 121 104" stroke="var(--paper)" stroke-width="5" fill="none" stroke-linecap="round"/>
+        <rect x="205" y="22" rx="18" width="370" height="130" fill="var(--orange-soft)"/>
+        <path d="M217 148 L205 178 L250 152 Z" fill="var(--orange-soft)"/>
+        <text x="230" y="60" font-family="Fredoka, sans-serif" font-size="22" font-weight="500" fill="var(--ink)">“I'm at Fontainhas in DUMBO,</text>
+        <text x="230" y="92" font-family="Fredoka, sans-serif" font-size="22" font-weight="500" fill="var(--ink)">take me to Hyderabadi Zaiqa</text>
+        <text x="230" y="124" font-family="Fredoka, sans-serif" font-size="22" font-weight="500" fill="var(--ink)">on 9th Ave.”</text>
+      </svg>
+      <div class="who you">You</div>
+      <p>You say where you are and where you want to be, <b>in your own words, mid-project</b>. No maps app, no new tab. Two places is all I need; one place, and I say null.</p>
+    </div>
+    <div class="step">
+      <svg viewBox="0 0 600 252" role="img" aria-label="Claude guesses the route, then checks each piece against the metro's tools">
+        <circle cx="70" cy="70" r="40" fill="var(--blue)"/>
+        <circle cx="56" cy="63" r="5" fill="var(--paper)"/>
+        <circle cx="84" cy="63" r="5" fill="var(--paper)"/>
+        <path d="M57 83 Q70 92 83 83" stroke="var(--paper)" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <rect x="130" y="30" width="440" height="80" rx="12" fill="var(--card)" stroke="var(--tan)" stroke-width="3"/>
+        <text x="150" y="60" font-family="Fredoka, sans-serif" font-size="16" fill="var(--muted)">my guess</text>
+        <text x="150" y="90" font-family="Fredoka, sans-serif" font-size="20" font-weight="500" fill="var(--ink)">F to W 4 St, change to the E, up to 50 St</text>
+        <line x1="60" y1="150" x2="560" y2="150" stroke="var(--orange)" stroke-width="8" stroke-linecap="round"/>
+        <g font-family="Fredoka, sans-serif" font-size="15" fill="var(--ink)">
+          <circle cx="90" cy="150" r="13" fill="var(--paper)" stroke="var(--orange)" stroke-width="5"/>
+          <text x="40" y="192" fill="var(--muted)">nearest station?</text>
+          <circle cx="250" cy="150" r="13" fill="var(--paper)" stroke="var(--orange)" stroke-width="5"/>
+          <text x="205" y="192" fill="var(--muted)">delays tonight?</text>
+          <circle cx="400" cy="150" r="13" fill="var(--paper)" stroke="var(--orange)" stroke-width="5"/>
+          <text x="345" y="192" fill="var(--muted)">stops there now?</text>
+          <circle cx="530" cy="150" r="13" fill="var(--paper)" stroke="var(--orange)" stroke-width="5"/>
+          <text x="495" y="192" fill="var(--muted)">next train?</text>
+        </g>
+        <text x="60" y="222" font-family="Nunito, sans-serif" font-size="15" fill="var(--orange)">tonight: the A from High St is one seat and about 13 min quicker.</text>
+        <text x="60" y="244" font-family="Nunito, sans-serif" font-size="15" fill="var(--orange)">My guess loses.</text>
+      </svg>
+      <div class="who claude">Me and the metro's tools</div>
+      <p>I know the subway well enough to <b>guess the route</b>. The metro's tools tell me what is true <b>tonight</b>: the nearest stations, the delays, whether the line still stops where I think, when the next train comes — one call at a time. When tonight disagrees with my guess, tonight wins.</p>
+      <div class="tools"><span class="tool">get_all_stations</span><span class="tool">get_incidents</span><span class="tool">get_stations_by_line</span><span class="tool">get_station_transfers</span><span class="tool">get_station_predictions</span></div>
+    </div>
+    <div class="step">
+      <pre class="answer"><b>Fontainhas → Hyderabadi Zaiqa</b> (12:22 AM, about 33 min)
+1. Walk 7 min to High St.
+2. A to Manhattan, 12:32 AM. 10 stops to 50 St.
+3. Walk 4 min.
+<span class="delay">Delay on the A: maintenance in Manhattan.</span>
+<span class="alt">Alternative: F from York St to W 4 St, then E or A uptown to 50 St. About 46 min; E and F delayed too.</span></pre>
+      <div class="who result">The answer</div>
+      <p><b>Five lines you read at one glance</b>: walk, train, walk. Whether there is a delay. An alternative, only if one is worth taking. Then you close the terminal and go eat.</p>
+      <div class="tools"><span class="tool skill">/find-metro</span><span class="tool skill">/find-nearest-station</span><span class="tool skill">/check-delay</span><span class="tool skill">/get-train-board</span></div>
+    </div>
+  </div>
+  <p class="foot">That's the whole booth: your words → my guess → the metro checks it → five lines.</p>
+</div>
+</body>
+</html>
