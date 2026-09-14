@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets / local config
+.env
+.env.*
+.env.local
+*.pem
+*.key
+
+# OS / editor / temp
+.DS_Store
+*.log
+tmp/
+.cache/
+.superpowers/

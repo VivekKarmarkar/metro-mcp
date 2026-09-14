@@ -1,0 +1,16 @@
+F  Queens Blvd Express/6 Av Local   ·  Jay St-MetroTech  ·  03:25Z
+DELAY RIGHT NOW: NO — no live alerts for the F
+Planned work on the F: 16 advisories.   Manhattan approach in service: 63 St.
+
+  ◀ Manhattan-bound → Jamaica-179 St                                   Coney Island-bound ▶
+  next Coney Island-bound train at each station:
+     ◎ 6m         ◎ 8m        ○ 10m       [○ 12m]        ● 0m         ● 0m         ◉ 2m    
+━━━━━●━━━━━━━━━━━━●━━━━━━━━━━━━●━━━━━━━━━━━━◆━━━━━━━━━━━━●▶━━━━━━━━━━◀●━━━━━━━━━━━━●━━━━━━━
+   Delancey    East Bway     York St       JAY ST     Bergen St    Carroll St  Smith-9 Sts 
+     ◎ 7m         ◎ 6m         ◉ 4m        [◉ 2m]        ● 0m         ● 0m         ◎ 5m    
+  next Manhattan-bound train at each station:
+
+  ● ≤1 min  ◉ 2–4  ◎ 5–9  ○ 10+  · none   ▶ Coney Island-bound train   ◀ Manhattan-bound train
+  next Coney Island-bound train beyond the picture reaches Delancey in 6 min
+  next Manhattan-bound train beyond the picture reaches Smith-9 Sts in 5 min
+  Delancey = Delancey St-Essex St · East Bway = East Broadway · Jay St = Jay St-MetroTech

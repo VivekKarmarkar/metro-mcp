@@ -1,0 +1,1814 @@
+{
+  "city": "nyc",
+  "incidents": [
+    {
+      "id": "lmm:alert:267145:26",
+      "description": "[A][C][D] trains are running with delays in both directions while we perform track maintenance along the line in Manhattan.",
+      "linesAffected": [
+        "A",
+        "C",
+        "D"
+      ],
+      "severity": "Delays",
+      "type": "Delays",
+      "lastUpdated": "2026-09-12T22:11:01.000Z"
+    },
+    {
+      "id": "lmm:alert:267153:26",
+      "description": "Uptown [F] trains are running with delays while we perform track maintenance near Ditmas Av.",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Delays",
+      "type": "Delays",
+      "lastUpdated": "2026-09-12T22:09:11.000Z"
+    },
+    {
+      "id": "lmm:alert:267162:26",
+      "description": "Downtown [R] trains are running express from Forest Hills-71 Av to Jackson Heights-Roosevelt Av.\nExpect [E][F][R] delays in both directions.",
+      "linesAffected": [
+        "E",
+        "F"
+      ],
+      "severity": "Delays",
+      "type": "Delays",
+      "lastUpdated": "2026-09-12T21:59:07.000Z"
+    },
+    {
+      "id": "lmm:alert:267162:29",
+      "description": "Downtown [R] trains are running express from Forest Hills-71 Av to Jackson Heights-Roosevelt Av.\nExpect [E][F][R] delays in both directions.",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Stops Skipped",
+      "type": "Stops Skipped",
+      "lastUpdated": "2026-09-12T21:59:07.000Z"
+    },
+    {
+      "id": "lmm:alert:267174:26",
+      "description": "Uptown [C][E] trains are running with delays after we requested NYPD for people being disruptive on a train at W 4 St-Wash Sq.",
+      "linesAffected": [
+        "C",
+        "E"
+      ],
+      "severity": "Delays",
+      "type": "Delays",
+      "lastUpdated": "2026-09-12T23:29:19.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34644",
+      "description": "Flushing-bound [7] service has been restored at 103 St-Corona Plaza",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Station Notice",
+      "type": "Station Notice",
+      "lastUpdated": "2026-09-11T20:49:10.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34623",
+      "description": "All [SIR] trains from Huguenot to Eltingville board from the Tottenville-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-11T14:11:27.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34564",
+      "description": "[SIR] runs on an adjusted schedule",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Special Schedule",
+      "type": "Special Schedule",
+      "lastUpdated": "2026-09-10T18:42:31.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34563",
+      "description": "[SIR] runs every 45 minutes between St George and Tottenville",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Special Schedule",
+      "type": "Special Schedule",
+      "lastUpdated": "2026-09-10T18:41:08.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34562",
+      "description": "All [SIR] trains from Grant City to Great Kills board from the St George-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-10T18:39:27.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34561",
+      "description": "All [SIR] trains from Arthur Kill to Richmond Valley board from the Tottenville-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-10T18:36:31.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34560",
+      "description": "All [SIR] trains from Stapleton to Grasmere board from the St George-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-10T18:33:34.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34559",
+      "description": "All [SIR] trains from Huguenot to Grant City board from the Tottenville-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-10T18:32:25.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34558",
+      "description": "All [SIR] trains from Arthur Kill to Prince's Bay board from the Tottenville-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-10T18:31:05.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34557",
+      "description": "All [SIR] trains from Grant City to Great Kills board from the St George-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-11T14:07:39.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34470",
+      "description": "[SIR] runs on an adjusted schedule",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Special Schedule",
+      "type": "Special Schedule",
+      "lastUpdated": "2026-09-04T15:33:49.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34468",
+      "description": "All [SIR] trains from Stapleton to Grasmere board from the St George-bound platform",
+      "linesAffected": [
+        "SI"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-04T15:30:51.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34461",
+      "description": "No late night [R] between Whitehall St-South Ferry and 59 St, Brooklyn",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-08T15:10:51.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34459",
+      "description": "In Brooklyn and Lower Manhattan, Astoria-bound [N] local runs via the [Q] from DeKalb Av to Canal St",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-10T11:47:58.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34458",
+      "description": "In Brooklyn, Manhattan-bound [N] local skips 25 St, Prospect Av, 4 Av-9 St and Union St",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-09T15:02:53.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34457",
+      "description": "In Brooklyn, Manhattan-bound [D] local skips 25 St, Prospect Av, 4 Av-9 St and Union St",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-09T15:02:29.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34455",
+      "description": "In Brooklyn, no [Q] between Prospect Park and Coney Island-Stillwell Av",
+      "linesAffected": [
+        "Q"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-09T15:05:19.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34453",
+      "description": "In Brooklyn, Manhattan-bound [D] runs via the [N] from Coney Island-Stillwell Av to 36 St",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-08T15:35:33.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34452",
+      "description": "In Brooklyn, no [L] between Myrtle-Wyckoff Avs and Atlantic Av",
+      "linesAffected": [
+        "L"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-08T14:54:48.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34451",
+      "description": "In Brooklyn, Manhattan-bound [Q] skips Avenue M, Avenue J, Avenue H, Cortelyou Rd, Beverley Rd and Parkside Av",
+      "linesAffected": [
+        "Q"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-11T12:25:45.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34450",
+      "description": "In Brooklyn, Manhattan-bound [N] runs via the [D] from Coney Island-Stillwell Av to 36 St",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-08T14:35:44.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34448",
+      "description": "In Brooklyn, no [N] at Coney Island-Stillwell Av",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-08T14:30:04.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34447",
+      "description": "No [W] between 57 St-7 Av, Manhattan and Astoria-Ditmars Blvd, Queens, take the [N] instead",
+      "linesAffected": [
+        "W"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-08T14:28:05.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34446",
+      "description": "In Brooklyn, Coney Island-bound [F] and Church Av-bound [G] skip 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy",
+      "linesAffected": [
+        "F",
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T14:26:27.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34445",
+      "description": "In Manhattan, downtown [C] skips 116 St, 110 St, 103 St, 96 St, 86 St, 81 St and 72 St",
+      "linesAffected": [
+        "C"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T14:19:38.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34444",
+      "description": "In Manhattan, downtown [A] local skips 116 St, 110 St, 103 St, 96 St, 86 St, 81 St and 72 St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T14:19:24.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34443",
+      "description": "In Brooklyn, Coney Island-bound [F] and Church Av-bound [G] skip 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy",
+      "linesAffected": [
+        "F",
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T14:15:11.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34442",
+      "description": "No Brooklyn-bound [F] service at 21 St-Queensbridge, Roosevelt Island, Lexington Av/63 St and 57 St",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-08T17:20:30.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34440",
+      "description": "No Jamaica-bound [F] service at 57 St, Lexington Av/63 St, Roosevelt Island, and 21 St-Queensbridge",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-09T13:34:26.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34439",
+      "description": "Jamaica Center-bound [E] runs via the Roosevelt Island [F] from W 4 St-Wash Sq, Manhattan to 21 St-Queensbridge, Queens, resuming service at 36 St",
+      "linesAffected": [
+        "E"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-08T17:19:05.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34438",
+      "description": "In Brooklyn, Queens-bound [A] local skips Ralph Av, Rockaway Av, Liberty Av, Van Siclen Av and Shepherd Av",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T13:46:54.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34437",
+      "description": "In Manhattan, uptown [A] local skips 72 St, 81 St, 86 St, 96 St, 103 St, 110 St and 116 St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-10T16:00:43.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34436",
+      "description": "In Upper Manhattan, downtown [D] stops at 135 St",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-09-08T13:32:47.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34434",
+      "description": "In the Bronx, all [2] trains at 3 Av-149 St board from the Manhattan-bound platform",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-08T13:17:14.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34433",
+      "description": "In Manhattan, uptown [2] local skips 50 St, 59 St-Columbus Circle, 66 St-Lincoln Center, 79 St and 86 St",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-09T14:54:17.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34431",
+      "description": "In Manhattan, uptown [1] skips 50 St, 59 St-Columbus Circle, 66 St-Lincoln Center, 79 St and 86 St",
+      "linesAffected": [
+        "1"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T12:58:36.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34429",
+      "description": "In the Bronx, uptown [2][5] skips Jackson Av, Prospect Av, Intervale Av, Simpson St, Freeman St, 174 St and West Farms Sq-E Tremont Av",
+      "linesAffected": [
+        "2",
+        "5"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T13:10:10.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34428",
+      "description": "In the Bronx, no [1] at Van Cortlandt Park-242 St",
+      "linesAffected": [
+        "1"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-08T13:07:25.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34339",
+      "description": "[A] is rerouted in Manhattan and Downtown Brooklyn",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-01T13:26:03.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34338",
+      "description": "[E]  is rerouted in Manhattan",
+      "linesAffected": [
+        "E"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-01T13:26:53.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34337",
+      "description": "[B] service ends early",
+      "linesAffected": [
+        "B"
+      ],
+      "severity": "Planned - Suspended",
+      "type": "Planned - Suspended",
+      "lastUpdated": "2026-09-01T13:26:22.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34336",
+      "description": "[C] service ends early - take the [A] instead",
+      "linesAffected": [
+        "C"
+      ],
+      "severity": "Planned - Suspended",
+      "type": "Planned - Suspended",
+      "lastUpdated": "2026-09-01T13:26:39.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34335",
+      "description": "[M] ends early between Forest Hills-71 Av and Delancey St-Essex St",
+      "linesAffected": [
+        "M"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-10T19:44:55.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34334",
+      "description": "In Brooklyn, Manhattan-bound [F] skips Avenue P, Avenue N, Bay Pkwy and Avenue I\nAll trains at 18 Av board from the Coney Island-bound platform",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T13:29:40.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34333",
+      "description": "In Southeast Queens, [H] Rockaway Park Shuttle is replaced by the [A] and free shuttle buses",
+      "linesAffected": [
+        "H"
+      ],
+      "severity": "Planned - Suspended",
+      "type": "Planned - Suspended",
+      "lastUpdated": "2026-09-03T13:41:47.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34332",
+      "description": "In Queens, Manhattan-bound [E][F] stops at 67 Av, 63 Dr-Rego Park, Woodhaven Blvd, Grand Av-Newtown and Elmhurst Av",
+      "linesAffected": [
+        "F",
+        "E"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-09-01T16:26:15.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34330",
+      "description": "No downtown [E] at 7 Av, 50 St, 42 St-Port Authority, 34 St-Penn Station, 23 St and 14 St\nNo [E] at Spring St, Canal St and World Trade Center",
+      "linesAffected": [
+        "E"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-09-01T16:27:06.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34329",
+      "description": "In Manhattan, downtown [C] skips 50 St, 23 St and Spring St",
+      "linesAffected": [
+        "C"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-03T15:05:59.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34328",
+      "description": "In Manhattan, downtown [A] local skips 50 St, 23 St and Spring St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-09T16:04:33.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34327",
+      "description": "In Brooklyn, Manhattan-bound [F] skips Avenue P, Avenue N, Bay Pkwy and Avenue I\nAll trains at 18 Av board from the Coney Island-bound platform",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-01T16:27:30.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34326",
+      "description": "In Southeast Queens, [A] replaces the [H] Rockaway Park Shuttle",
+      "linesAffected": [
+        "H"
+      ],
+      "severity": "Planned - Suspended",
+      "type": "Planned - Suspended",
+      "lastUpdated": "2026-09-08T14:22:04.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34325",
+      "description": "No [A] between Broad Channel and Far Rockaway\n[A] will be rerouted to Rockaway Park replacing [H]\nTake [shuttle bus icon] free shuttle buses and/or rerouted [A] via [H]",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-08T14:22:21.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34324",
+      "description": "[J] trains run every 10 minutes",
+      "linesAffected": [
+        "J"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-09-08T14:52:41.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34323",
+      "description": "In Brooklyn, Manhattan-bound [J] skips Chauncey St, Halsey St, Gates Av and Kosciuszko St",
+      "linesAffected": [
+        "J"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T14:52:28.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34322",
+      "description": "In Brooklyn, no [Q] between Brighton Beach and Coney Island-Stillwell Av",
+      "linesAffected": [
+        "Q"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-01T16:29:08.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34321",
+      "description": "In Brooklyn, no [B] between Kings Hwy and Brighton Beach - take the [Q]",
+      "linesAffected": [
+        "B"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-01T16:29:22.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34320",
+      "description": "[Q] runs every 30 minutes between Atlantic Av-Barclays Ctr and Coney Island-Stillwell Av",
+      "linesAffected": [
+        "Q"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-09-03T17:20:57.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34319",
+      "description": "In Queens, Astoria-bound [N] skips 39 Av-Dutch Kills, 36 Av, Broadway and 30 Av",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-01T16:31:17.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34318",
+      "description": "[M] is extended to the 96 St [Q] station",
+      "linesAffected": [
+        "M"
+      ],
+      "severity": "Extra Service",
+      "type": "Extra Service",
+      "lastUpdated": "2026-09-08T15:29:50.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34316",
+      "description": "No [L] between Lorimer St, Brooklyn and 8 Av, Manhattan",
+      "linesAffected": [
+        "L"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-09T16:55:16.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34314",
+      "description": "In Queens, Flushing-bound [7] skips 82 St, 90 St, 103 St and 111 St\nAll trains at Junction Blvd board from the Manhattan-bound platform",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-10T15:00:19.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34311",
+      "description": "In the Bronx, Dyre Av-bound [5] skips Morris Park, Gun Hill Rd and Baychester Av\nAll trains board from the Manhattan-bound platform at Pelham Pkwy",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-01T13:12:03.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34310",
+      "description": "In the Bronx, Manhattan-bound [2] skips Jackson Av\nAll trains at 3 Av/149 St board from the uptown platform",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-01T13:08:35.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34309",
+      "description": "In Brooklyn, Manhattan-bound [4] local skips Eastern Pkwy-Brooklyn Museum, Grand Army Plaza and Bergen St",
+      "linesAffected": [
+        "4"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-01T12:57:39.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34307",
+      "description": "In Brooklyn, Manhattan-bound [2][3] skips Eastern Pkwy-Brooklyn Museum, Grand Army Plaza and Bergen St",
+      "linesAffected": [
+        "2",
+        "3"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-01T12:57:07.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34279",
+      "description": "In the Bronx, no [4] between Kingsbridge Rd and Woodlawn",
+      "linesAffected": [
+        "4"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-28T12:44:47.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34246",
+      "description": "In the Bronx, Manhattan-bound [2][5] runs express from E 180 St to 3 Av-149 St\nAll trains at E 180 St board from the uptown platform",
+      "linesAffected": [
+        "2",
+        "5"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-26T13:22:25.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34230",
+      "description": "In Upper Manhattan, downtown [1] skips 125 St, 116 St-Columbia University, Cathedral Pkwy (110 St) and 103 St",
+      "linesAffected": [
+        "1"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-10T14:03:41.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34218",
+      "description": "In Brooklyn and Manhattan, [C] service is rerouted between Jay St-MetroTech and 59 St-Columbus Circle",
+      "linesAffected": [
+        "C"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-08-26T19:56:42.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34202",
+      "description": "In Manhattan, uptown [A] stops at 23 St and 50 St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-25T14:55:53.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34201",
+      "description": "In Brooklyn and Lower Manhattan, no Inwood-bound [A] at High St, Fulton St, Chambers St, Canal St and Spring St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-08-25T15:18:26.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34199",
+      "description": "In Brooklyn, Queens-bound [A] stops at Ralph Av and Rockaway Av",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-25T15:48:23.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34197",
+      "description": "In Brooklyn, Manhattan-bound [A] stops at Shepherd Av, Van Siclen Av, Liberty Av, Rockaway Av and Ralph Av",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-25T15:52:24.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34195",
+      "description": "In Brooklyn, Coney Island-bound [F] and Church Av-bound [G] skip 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy",
+      "linesAffected": [
+        "F",
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T15:58:18.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34194",
+      "description": "In Manhattan, downtown [N] and [Q] local skip 49 St",
+      "linesAffected": [
+        "N",
+        "Q"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T16:12:58.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34192",
+      "description": "In Manhattan, downtown [R] skips 49 St",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T16:14:40.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34190",
+      "description": "No late night [R] between Whitehall St-South Ferry and Atlantic Av-Barclays Ctr\n[R] runs express between Atlantic Av-Barclays Ctr and 36 St",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-25T16:31:22.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34189",
+      "description": "In Brooklyn and Lower Manhattan, [R] runs via the [Q] in both directions between DeKalb Av and Canal St",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-08-25T16:30:03.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34188",
+      "description": "In Brooklyn and Lower Manhattan, [N] runs via the [Q] in both directions between DeKalb Av and Canal St",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-08-25T16:25:11.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34187",
+      "description": "No [J] between Broadway Junction, Brooklyn and Jamaica Center-Parsons/Archer, Queens",
+      "linesAffected": [
+        "J"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-25T16:37:24.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34185",
+      "description": "In Manhattan and Queens, Forest Hills-bound [R] runs via Roosevelt Island [F] from 57 St-7 Av to 36 St",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-08-25T16:08:06.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34184",
+      "description": "In Manhattan, no [Q] between 57 St/7 Av and 96 St",
+      "linesAffected": [
+        "Q"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-27T12:35:26.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34183",
+      "description": "In Manhattan, downtown [D] runs local from 125 St to 59 St-Columbus Circle",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-25T14:45:15.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34182",
+      "description": "In Manhattan, downtown [A] runs local from 125 St to Canal St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-26T18:22:26.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34181",
+      "description": "In Brooklyn, Coney Island-bound [F] and Church Av-bound [G] skip 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy",
+      "linesAffected": [
+        "F",
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T14:39:26.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34179",
+      "description": "In Brooklyn, Coney Island-bound [F] skips Avenue I, Bay Pkwy, Avenue N, and Avenue P",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T15:59:46.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34178",
+      "description": "No [G] between Bedford-Nostrand Avs and Court Sq",
+      "linesAffected": [
+        "G"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-25T16:02:04.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34176",
+      "description": "In the Bronx, no [D] at Norwood-205 St",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-26T14:11:17.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34174",
+      "description": "[5] runs every 20 minutes and local in both directions between 125 St and Grand Central-42 St",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-09-10T18:50:06.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34171",
+      "description": "No [5] between E 180 St, Bronx and Bowling Green, Manhattan",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-10T15:46:33.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34170",
+      "description": "In the Bronx, all [2] trains at 3 Av-149 St board from the Manhattan-bound platform",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-08-25T13:25:54.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34168",
+      "description": "[2] runs approximately every 15 minutes",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-09-10T15:45:45.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34167",
+      "description": "In the Bronx, Dyre Av-bound [5] skips Jackson Av, Prospect Av, Intervale Av, Simpson St, Freeman St, 174 St and West Farms Sq-E Tremont Av",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T13:19:56.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34166",
+      "description": "In the Bronx, Wakefield-bound [2] skips Jackson Av, Prospect Av, Intervale Av, Simpson St, Freeman St, 174 St and West Farms Sq-E Tremont Av",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T13:19:04.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34165",
+      "description": "In Upper Manhattan and the Bronx, uptown [1] skips Marble Hill-225 St, 231 St and 238 St",
+      "linesAffected": [
+        "1"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T13:07:40.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34162",
+      "description": "No [6] between Hunts Point Av and 125 St",
+      "linesAffected": [
+        "6"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-08T18:59:03.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34161",
+      "description": "In the Bronx, all [2] trains at E 180 St board from the uptown platform",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-08-25T12:55:45.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34160",
+      "description": "In the Bronx, all [2] trains at E 180 St board from the downtown platform",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-08-25T12:44:35.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34159",
+      "description": "In the Bronx, no overnight [5] between Dyre Av and E 180 St",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Suspended",
+      "type": "Planned - Suspended",
+      "lastUpdated": "2026-08-25T12:53:24.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34158",
+      "description": "In Manhattan, uptown [2] local service begins early from Chambers St to 96 St",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-26T19:22:30.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34157",
+      "description": "In Brooklyn, all [2] trains at Sterling St, Winthrop St and Church Av board from the Manhattan-bound platform",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-08-25T12:41:07.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34110",
+      "description": "[Q] runs every 10 minutes",
+      "linesAffected": [
+        "Q"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-09-09T16:46:55.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34054",
+      "description": "In Brooklyn, Manhattan-bound [J][M] skips Flushing Av, Lorimer St and Hewes St\nAll trains at Myrtle Av board from the Jamaica Center/Metropolitan Av-bound platform",
+      "linesAffected": [
+        "J",
+        "M"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-20T13:38:07.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34053",
+      "description": "[M] runs between Middle Village-Metropolitan Av and Delancey St-Essex St",
+      "linesAffected": [
+        "M"
+      ],
+      "severity": "Extra Service",
+      "type": "Extra Service",
+      "lastUpdated": "2026-08-18T15:18:15.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34052",
+      "description": "[L] service operates in two sections:\n1. Between Canarsie-Rockaway Pkwy and Broadway Junction\n2. Between Broadway Junction and 8 Av",
+      "linesAffected": [
+        "L"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-08-20T13:12:56.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34051",
+      "description": "In Brooklyn, Manhattan-bound [N] skips Bay Pkwy, 20 Av, 18 Av, New Utrecht Av, Fort Hamilton Pkwy and 8 Av",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-19T18:53:17.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34050",
+      "description": "In Queens, Astoria-bound [N] skips 39 Av-Dutch Kills, 36 Av, Broadway and 30 Av",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-19T18:52:19.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34049",
+      "description": "No [N] between Queensboro Plaza, Queens and Times Sq-42 St, Manhattan",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-19T18:32:56.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34037",
+      "description": "[J] trains run every 10 minutes",
+      "linesAffected": [
+        "J"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-08-20T15:30:20.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34036",
+      "description": "In Brooklyn, Manhattan-bound [J] skips Chauncey St, Halsey St, Gates Av and Kosciuszko St",
+      "linesAffected": [
+        "J"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-20T15:06:24.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34035",
+      "description": "In Brooklyn, Manhattan-bound [B] stops at Neck Rd and Avenue U",
+      "linesAffected": [
+        "B"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-19T15:13:46.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34034",
+      "description": "In Brooklyn, no [Q] between Brighton Beach and Coney Island-Stillwell Av",
+      "linesAffected": [
+        "Q"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-18T15:14:55.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34033",
+      "description": "In Brooklyn, no [B] between Kings Hwy and Brighton Beach - take the [Q]",
+      "linesAffected": [
+        "B"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-18T15:15:07.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34032",
+      "description": "In Queens, no [E] service at Jamaica-Van Wyck, Sutphin Blvd-Archer Av-JFK Airport and Jamaica Center-Parsons/Archer",
+      "linesAffected": [
+        "E"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-20T15:04:37.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34028",
+      "description": "In Brooklyn, Coney Island-bound [F] runs express from Smith-9 Sts to Kings Hwy",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T14:53:59.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34027",
+      "description": "In Brooklyn, Church Av-bound [G] skips 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy",
+      "linesAffected": [
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T14:54:09.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34026",
+      "description": "In Southeast Queens, [A] replaces the [H] Rockaway Park Shuttle",
+      "linesAffected": [
+        "H"
+      ],
+      "severity": "Planned - Suspended",
+      "type": "Planned - Suspended",
+      "lastUpdated": "2026-08-18T14:46:37.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34025",
+      "description": "No [A] between Broad Channel and Far Rockaway\n[A] will be rerouted to Rockaway Park replacing [H]\nTake [shuttle bus icon] free shuttle buses and/or rerouted [A] via [H]",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-20T13:47:45.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34022",
+      "description": "No [D] between 34 St-Herald Sq, Manhattan and Atlantic Av-Barclays Ctr, Brooklyn",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-01T12:38:30.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34020",
+      "description": "In Brooklyn, [N] runs local in both directions between DeKalb Av and 59 St",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-18T14:42:30.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34019",
+      "description": "In Queens, Manhattan-bound [R] skips 65 St, Northern Blvd, 46 St, Steinway St and 36 St",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T14:25:31.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34018",
+      "description": "In Queens, Manhattan-bound local [E][F] skips 65 St, Northern Blvd, 46 St, Steinway St and 36 St",
+      "linesAffected": [
+        "E",
+        "F"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T14:25:21.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34016",
+      "description": "In Manhattan, downtown [C] skips 116 St, 110 St, 103 St, 96 St, 86 St, 81 St and 72 St",
+      "linesAffected": [
+        "C"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T14:23:05.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34015",
+      "description": "In Manhattan, downtown [A] local skips 116 St, 110 St, 103 St, 96 St, 86 St, 81 St and 72 St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T14:22:23.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34014",
+      "description": "No [G] between Bedford-Nostrand Avs and Court Sq",
+      "linesAffected": [
+        "G"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-19T18:28:04.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34013",
+      "description": "In Brooklyn, Coney Island-bound [F] and Church Av-bound [G] skip 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy",
+      "linesAffected": [
+        "F",
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-19T18:27:35.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34010",
+      "description": "No [D] between 59 St-Columbus Circle, Manhattan and 161 St-Yankee Stadium, Bronx",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-09T18:00:35.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34009",
+      "description": "[C] service ends early",
+      "linesAffected": [
+        "C"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-09T18:04:43.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34008",
+      "description": "[B] service ends early",
+      "linesAffected": [
+        "B"
+      ],
+      "severity": "Planned - Suspended",
+      "type": "Planned - Suspended",
+      "lastUpdated": "2026-09-09T18:02:42.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34006",
+      "description": "In Manhattan, no [A] between 59 St-Columbus Circle and Inwood-207 St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-09T18:21:20.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34004",
+      "description": "[3] is extended to 14 St",
+      "linesAffected": [
+        "3"
+      ],
+      "severity": "Extra Service",
+      "type": "Extra Service",
+      "lastUpdated": "2026-09-11T16:18:10.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34003",
+      "description": "[5] runs every 20 minutes and local in both directions between 125 St and Grand Central-42 St",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-19T19:12:28.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34002",
+      "description": "In the Bronx, no [1] at Van Cortlandt Park-242 St",
+      "linesAffected": [
+        "1"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-18T13:07:20.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34001",
+      "description": "In the Bronx, [4] runs every 16 minutes between 167 St and Woodlawn\nThe last stop for alternate trains from Manhattan is 167 St",
+      "linesAffected": [
+        "4"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-08-18T13:04:22.000Z"
+    },
+    {
+      "id": "lmm:planned_work:34000",
+      "description": "In the Bronx, no [2] at Wakefield-241 St",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-18T12:54:10.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33999",
+      "description": "In Queens, no [7] at Flushing-Main St",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-18T12:49:49.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33997",
+      "description": "[S] 42 Street Shuttle service runs overnight",
+      "linesAffected": [
+        "GS"
+      ],
+      "severity": "Extra Service",
+      "type": "Extra Service",
+      "lastUpdated": "2026-08-18T13:40:33.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33996",
+      "description": "No [7] between Queensboro Plaza, Queens and 34 St-Hudson Yards, Manhattan",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-19T18:12:38.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33995",
+      "description": "In Manhattan, downtown local [4] service begins early from 125 St to Grand Central-42 St",
+      "linesAffected": [
+        "4"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-19T18:12:06.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33993",
+      "description": "In Manhattan, uptown [2] local skips Franklin St, Canal St, Houston St and Christopher St-Stonewall",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T12:37:44.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33992",
+      "description": "In Manhattan, no [1] between 14 St and South Ferry",
+      "linesAffected": [
+        "1"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-18T12:35:11.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33908",
+      "description": "In Brooklyn, select Church Av-bound [G] trains skip 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy - take the [F] instead",
+      "linesAffected": [
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-09-08T13:13:20.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33870",
+      "description": "[M] runs between Metropolitan Av and Delancey St-Essex St, and via the [J] to/from Broad St",
+      "linesAffected": [
+        "M"
+      ],
+      "severity": "Extra Service",
+      "type": "Extra Service",
+      "lastUpdated": "2026-08-11T18:30:22.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33869",
+      "description": "No [J] between Crescent St, Brooklyn and Broad St, Manhattan",
+      "linesAffected": [
+        "J"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-10T12:25:53.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33868",
+      "description": "In Brooklyn, Coney Island-bound [N] skips 8 Av, Fort Hamilton Pkwy, New Utrecht Av, 18 Av, 20 Av and Bay Pkwy",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-11T18:21:17.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33867",
+      "description": "No late night [R] between Whitehall St-South Ferry and Atlantic Av-Barclays Ctr\n[R] runs express between Atlantic Av-Barclays Ctr and 36 St",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-11T18:06:40.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33866",
+      "description": "In Brooklyn and Lower Manhattan, [R] runs via the [Q] in both directions between DeKalb Av and Canal St",
+      "linesAffected": [
+        "R"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-08-13T12:49:53.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33865",
+      "description": "In Brooklyn and Lower Manhattan, [N] runs via the [Q] in both directions between DeKalb Av and Canal St",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Reroute",
+      "type": "Planned - Reroute",
+      "lastUpdated": "2026-08-11T18:04:07.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33864",
+      "description": "In Queens, Manhattan-bound [N] skips 30 Av, Broadway, 36 Av and 39 Av-Dutch Kills",
+      "linesAffected": [
+        "N"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-11T16:54:21.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33855",
+      "description": "No [G] between Bedford-Nostrand Avs and Court Sq",
+      "linesAffected": [
+        "G"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-09T16:40:52.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33854",
+      "description": "In Brooklyn, Coney Island-bound [F] and Church Av-bound [G] skip 4 Av-9 St, 15 St-Prospect Park and Fort Hamilton Pkwy",
+      "linesAffected": [
+        "F",
+        "G"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-14T16:22:49.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33852",
+      "description": "In Brooklyn, Manhattan-bound [F] skips Avenue P, Avenue N, Bay Pkwy and Avenue I\nAll trains at 18 Av board from the Coney Island-bound platform",
+      "linesAffected": [
+        "F"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-11T16:25:30.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33851",
+      "description": "In Manhattan, uptown [D] runs local from 59 St-Columbus Circle to 125 St",
+      "linesAffected": [
+        "D"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-11T16:23:50.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33850",
+      "description": "In Manhattan, uptown [A] runs local from 59 St-Columbus Circle to 125 St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-11T16:23:35.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33849",
+      "description": "In Manhattan, downtown [C] skips 116 St, 110 St, 103 St, 96 St, 86 St, 81 St and 72 St",
+      "linesAffected": [
+        "C"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-12T18:22:57.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33848",
+      "description": "In Manhattan, downtown [A] local skips 116 St, 110 St, 103 St, 96 St, 86 St, 81 St and 72 St",
+      "linesAffected": [
+        "A"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-12T18:28:03.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33832",
+      "description": "In Upper Manhattan, downtown [1] skips 125 St, 116 St-Columbia University, Cathedral Pkwy (110 St) and 103 St",
+      "linesAffected": [
+        "1"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-25T14:31:12.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33829",
+      "description": "[5] service ends early between Bowling Green, Manhattan and E 180 St, Bronx",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-10T18:47:57.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33828",
+      "description": "[5] runs every 20 minutes and local in both directions between 125 St and Grand Central-42 St",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-09-09T16:43:31.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33827",
+      "description": "In Manhattan, [4] runs local in both directions between 125 St and Grand Central-42 St",
+      "linesAffected": [
+        "4"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-09-10T18:47:10.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33826",
+      "description": "No [6] between Hunts Point Av and 125 St",
+      "linesAffected": [
+        "6"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-09-09T16:09:58.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33824",
+      "description": "No [5] between E 180 St, Bronx and Bowling Green, Manhattan",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Part Suspended",
+      "type": "Planned - Part Suspended",
+      "lastUpdated": "2026-08-24T12:59:57.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33823",
+      "description": "[2] runs approximately every 15 minutes",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Reduced Service",
+      "type": "Reduced Service",
+      "lastUpdated": "2026-09-09T16:49:17.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33822",
+      "description": "In the Bronx, all [2] trains at 3 Av-149 St board from the Manhattan-bound platform",
+      "linesAffected": [
+        "2"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-08-11T13:35:25.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33821",
+      "description": "In the Bronx, Dyre Av-bound [5] skips Morris Park, Gun Hill Rd and Baychester Av\nAll trains board from the Manhattan-bound platform at Pelham Pkwy",
+      "linesAffected": [
+        "5"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-18T13:13:35.000Z"
+    },
+    {
+      "id": "lmm:planned_work:33366",
+      "description": "Enter 5 Av/53 St [E][F] Station at 5 Av only\nMadison Av entrance will be exit only",
+      "linesAffected": [
+        "E",
+        "F"
+      ],
+      "severity": "Station Notice",
+      "type": "Station Notice",
+      "lastUpdated": "2026-07-17T15:47:42.000Z"
+    },
+    {
+      "id": "lmm:planned_work:31871",
+      "description": "In Queens, all Manhattan-bound [7][7X] local/express trains stop at 74 St-Broadway",
+      "linesAffected": [
+        "7",
+        "7X"
+      ],
+      "severity": "Planned - Express to Local",
+      "type": "Planned - Express to Local",
+      "lastUpdated": "2026-08-12T14:09:43.000Z"
+    },
+    {
+      "id": "lmm:planned_work:31498",
+      "description": "In Queens, Flushing-bound [7] skips 52 St and 69 St\nAll trains at Woodside-61 St board from the Manhattan-bound platform",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-05-26T11:54:24.000Z"
+    },
+    {
+      "id": "lmm:planned_work:29949",
+      "description": "In the Bronx, Woodlawn-bound [4] skips Burnside Av",
+      "linesAffected": [
+        "4"
+      ],
+      "severity": "Planned - Stops Skipped",
+      "type": "Planned - Stops Skipped",
+      "lastUpdated": "2026-08-17T17:07:46.000Z"
+    },
+    {
+      "id": "lmm:planned_work:29169",
+      "description": "In Queens, all [7] trains at Vernon Blvd-Jackson Av and Hunters Point Av board from the Manhattan-bound platform",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-03T01:39:16.000Z"
+    },
+    {
+      "id": "lmm:planned_work:29166",
+      "description": "In Queens, all [7] trains at Vernon Blvd-Jackson Av and Hunters Point Av board from the Manhattan-bound platform",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-07T04:57:19.000Z"
+    },
+    {
+      "id": "lmm:planned_work:29084",
+      "description": "In Queens, all [7] trains at Hunters Point Av and Vernon Blvd-Jackson Av board from the Flushing-bound platform",
+      "linesAffected": [
+        "7"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-09T08:35:55.000Z"
+    },
+    {
+      "id": "lmm:planned_work:29082",
+      "description": "In Manhattan, all [L] trains at 1 Av and 3 Av board from the Brooklyn-bound platform",
+      "linesAffected": [
+        "L"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-09-04T06:03:58.000Z"
+    },
+    {
+      "id": "lmm:planned_work:29070",
+      "description": "In Manhattan, all [L] trains at 3 Av and 1 Av board from the 8 Av-bound platform",
+      "linesAffected": [
+        "L"
+      ],
+      "severity": "Boarding Change",
+      "type": "Boarding Change",
+      "lastUpdated": "2026-08-11T08:09:56.000Z"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+F  Queens Blvd Express/6 Av Local   ·  42 St-Bryant Pk  ·  03:25Z
+DELAY RIGHT NOW: NO — no live alerts for the F
+Planned work on the F: 16 advisories.   Manhattan approach in service: 63 St.
+
+  ◀ Queens-bound → Jamaica-179 St                           Brooklyn-bound → Coney Island ▶
+  next Brooklyn-bound train at each station:
+     ● 0m         ● 0m         ◉ 2m        [◉ 4m]        ◎ 5m         ◎ 7m         ● 0m    
+━━━━━●▶━━━━━━━━━━━●━━━━━━━━━━━━●━━━━━━━━━━━━◆━━━━━━━━━━━━●━━━━━━━━━━━◀●━━━━━━━━━━━━●▶━━━━━━
+ Lex Av/63 St    57 St      47-50 Sts   42 ST-BRYANT 34 St-Herald    23 St        14 St    
+     ◎ 8m         ◎ 5m         ◉ 4m        [◉ 2m]        ● 0m         ● 0m        ○ 15m    
+  next Queens-bound train at each station:
+
+  ● ≤1 min  ◉ 2–4  ◎ 5–9  ○ 10+  · none   ▶ Brooklyn-bound train   ◀ Queens-bound train
+  next Brooklyn-bound train beyond the picture reaches Lex Av/63 St in 8 min
+  next Queens-bound train beyond the picture reaches 14 St in 15 min
+  Lex Av/63 St = Lexington Av/63 St · 47-50 Sts = 47-50 Sts-Rockefeller Ctr · 42 St-Bryant = 42 St-Bryant Pk · 34 St-Herald = 34 St-Herald Sq

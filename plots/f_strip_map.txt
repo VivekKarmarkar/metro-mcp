@@ -1,0 +1,65 @@
+F  Queens Blvd Express/6 Av Local        polled 03:11Z  (59 stations, 0 errors)
+DELAY RIGHT NOW: NO  (no live alerts for the F)
+Planned work on the F: 16 advisories.   Manhattan approach in service now: 63 St (the 53 St stations get no F right now)
+
+  SOUTHBOUND → Coney Island         station                       NORTHBOUND → Jamaica
+  next F                                                          next F
+     ●    0m ▼   ┃ Jamaica-179 St                  ●    0m
+     ●    0m     ┃ 169 St                          ○   32m
+     ◉    3m     ┃ Parsons Blvd                    ○   26m
+     ◎    4m     ┃ Sutphin Blvd                    ○   23m
+     ◎    6m     ┃ Briarwood                       ○   22m
+     ◎    8m     ┃ Kew Gardens-Union Tpke          ○   20m
+     ○   10m     ┃ 75 Av                           ○   18m
+     ○   11m     ┃ Forest Hills-71 Av              ○   16m
+     ●    0m ▼   ┃ 67 Av                           ○   15m
+     ●    0m     ┃ 63 Dr-Rego Park                 ○   13m
+     ◉    2m     ┃ Woodhaven Blvd                  ○   12m
+     ◉    4m     ┃ Grand Av-Newtown                ○   10m
+     ◎    5m     ┃ Elmhurst Av                     ◎    8m
+     ◎    7m     ┃ Jackson Hts-Roosevelt Av        ◎    7m
+     ●    0m ▼   ┃ 65 St                           ◎    5m
+     ●    0m     ┃ Northern Blvd                   ◎    4m
+     ◉    2m     ┃ 46 St                           ◉    3m
+     ◉    4m     ┃ Steinway St                     ◉    1m
+     ◎    5m     ┃ 36 St                        ▲  ●    0m
+         · —     ┃ Queens Plaza                    · —
+     ◎    7m     ┃ 21 St-Queensbridge              ◎    8m
+     ●    0m ▼   ┃ Roosevelt Island                ◎    6m
+     ◉    1m     ┃ Lexington Av/63 St              ◉    3m
+     ◉    4m     ┃ 57 St                           ●    0m
+     ◎    5m     ┃ 47-50 Sts-Rockefeller Ctr    ▲  ●    0m
+     ◎    7m     ┃ 42 St-Bryant Pk                 ○   14m
+     ◎    8m     ┃ 34 St-Herald Sq                 ○   12m
+     ○   10m     ┃ 23 St                           ○   11m
+     ○   11m     ┃ 14 St                           ○    9m
+     ○   13m     ┃ W 4 St-Wash Sq                  ◎    8m
+     ●    0m ▼   ┃ Broadway-Lafayette St           ◎    5m
+     ◉    2m     ┃ 2 Av                            ◉    4m
+     ◉    4m     ┃ Delancey St-Essex St            ◉    2m
+     ◎    5m     ┃ East Broadway                   ◉    1m
+     ◎    8m     ┃ York St                      ▲  ●    0m
+     ○   10m     ┃ Jay St-MetroTech                ○   16m
+     ○   13m     ┃ Bergen St                       ○   13m
+     ○   15m     ┃ Carroll St                      ○   12m
+     ●    0m ▼   ┃ Smith-9 Sts                     ○   10m
+         · —     ┃ 4 Av-9 St                       ◎    8m
+     ◉    2m     ┃ 7 Av                            ◎    6m
+         · —     ┃ 15 St-Prospect Park             ◎    5m
+         · —     ┃ Fort Hamilton Pkwy              ◉    2m
+     ◎    6m     ┃ Church Av                       ●    0m
+     ○   10m     ┃ Ditmas Av                    ▲  ●    0m
+     ●    0m ▼   ┃ 18 Av                           ◉    2m
+     ●    0m     ┃ Avenue I                        · —
+     ◉    3m     ┃ Bay Pkwy                        · —
+     ◎    4m     ┃ Avenue N                        · —
+     ◎    6m     ┃ Avenue P                        · —
+     ◎    8m     ┃ Kings Hwy                    ▲  ●    0m
+     ○   10m     ┃ Avenue U                        ○    9m
+     ○   14m     ┃ Avenue X                        ◎    8m
+     ●    0m ▼   ┃ Neptune Av                      ◎    6m
+     ●    0m     ┃ W 8 St-NY Aquarium              ◎    4m
+     ◉    2m     ┃ Coney Island-Stillwell Av       ◉    3m
+
+  ● ≤1 min   ◉ 2–4   ◎ 5–9   ○ 10+   · no F arrivals in this direction (express skip, terminal, or not served now)
+  not served now: Court Sq-23 St, Lexington Av/53 St, 5 Av/53 St

@@ -1,0 +1,839 @@
+{
+  "city": "nyc",
+  "line": "F",
+  "stations": [
+    {
+      "id": "A41",
+      "name": "Jay St-MetroTech",
+      "lines": [
+        "A",
+        "C",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.692338,
+        "lon": -73.987342
+      },
+      "address": null
+    },
+    {
+      "id": "B04",
+      "name": "21 St-Queensbridge",
+      "lines": [
+        "F",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.754203,
+        "lon": -73.942836
+      },
+      "address": null
+    },
+    {
+      "id": "B06",
+      "name": "Roosevelt Island",
+      "lines": [
+        "F",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.759145,
+        "lon": -73.95326
+      },
+      "address": null
+    },
+    {
+      "id": "B08",
+      "name": "Lexington Av/63 St",
+      "lines": [
+        "F",
+        "M",
+        "N",
+        "Q",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.764629,
+        "lon": -73.966113
+      },
+      "address": null
+    },
+    {
+      "id": "B10",
+      "name": "57 St",
+      "lines": [
+        "F",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.763972,
+        "lon": -73.97745
+      },
+      "address": null
+    },
+    {
+      "id": "D15",
+      "name": "47-50 Sts-Rockefeller Ctr",
+      "lines": [
+        "B",
+        "D",
+        "F",
+        "FX",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.758663,
+        "lon": -73.981329
+      },
+      "address": null
+    },
+    {
+      "id": "D16",
+      "name": "42 St-Bryant Pk",
+      "lines": [
+        "B",
+        "D",
+        "F",
+        "FX",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.754222,
+        "lon": -73.984569
+      },
+      "address": null
+    },
+    {
+      "id": "D17",
+      "name": "34 St-Herald Sq",
+      "lines": [
+        "B",
+        "D",
+        "F",
+        "FX",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.749719,
+        "lon": -73.987823
+      },
+      "address": null
+    },
+    {
+      "id": "D18",
+      "name": "23 St",
+      "lines": [
+        "F",
+        "FX",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.742878,
+        "lon": -73.992821
+      },
+      "address": null
+    },
+    {
+      "id": "D19",
+      "name": "14 St",
+      "lines": [
+        "F",
+        "FX",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.738228,
+        "lon": -73.996209
+      },
+      "address": null
+    },
+    {
+      "id": "D20",
+      "name": "W 4 St-Wash Sq",
+      "lines": [
+        "B",
+        "D",
+        "F",
+        "FX",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.732338,
+        "lon": -74.000495
+      },
+      "address": null
+    },
+    {
+      "id": "D21",
+      "name": "Broadway-Lafayette St",
+      "lines": [
+        "B",
+        "D",
+        "F",
+        "FX",
+        "M"
+      ],
+      "coordinates": {
+        "lat": 40.725297,
+        "lon": -73.996204
+      },
+      "address": null
+    },
+    {
+      "id": "D42",
+      "name": "W 8 St-NY Aquarium",
+      "lines": [
+        "F",
+        "FX",
+        "Q"
+      ],
+      "coordinates": {
+        "lat": 40.576127,
+        "lon": -73.975939
+      },
+      "address": null
+    },
+    {
+      "id": "D43",
+      "name": "Coney Island-Stillwell Av",
+      "lines": [
+        "D",
+        "F",
+        "FX",
+        "N",
+        "Q"
+      ],
+      "coordinates": {
+        "lat": 40.577422,
+        "lon": -73.981233
+      },
+      "address": null
+    },
+    {
+      "id": "F01",
+      "name": "Jamaica-179 St",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.712646,
+        "lon": -73.783817
+      },
+      "address": null
+    },
+    {
+      "id": "F02",
+      "name": "169 St",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.71047,
+        "lon": -73.793604
+      },
+      "address": null
+    },
+    {
+      "id": "F03",
+      "name": "Parsons Blvd",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.707564,
+        "lon": -73.803326
+      },
+      "address": null
+    },
+    {
+      "id": "F04",
+      "name": "Sutphin Blvd",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.70546,
+        "lon": -73.810708
+      },
+      "address": null
+    },
+    {
+      "id": "F05",
+      "name": "Briarwood",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.709179,
+        "lon": -73.820574
+      },
+      "address": null
+    },
+    {
+      "id": "F06",
+      "name": "Kew Gardens-Union Tpke",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.714441,
+        "lon": -73.831008
+      },
+      "address": null
+    },
+    {
+      "id": "F07",
+      "name": "75 Av",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.718331,
+        "lon": -73.837324
+      },
+      "address": null
+    },
+    {
+      "id": "F09",
+      "name": "Court Sq-23 St",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.747846,
+        "lon": -73.946
+      },
+      "address": null
+    },
+    {
+      "id": "F11",
+      "name": "Lexington Av/53 St",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.757552,
+        "lon": -73.969055
+      },
+      "address": null
+    },
+    {
+      "id": "F12",
+      "name": "5 Av/53 St",
+      "lines": [
+        "E",
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.760167,
+        "lon": -73.975224
+      },
+      "address": null
+    },
+    {
+      "id": "F14",
+      "name": "2 Av",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.723402,
+        "lon": -73.989938
+      },
+      "address": null
+    },
+    {
+      "id": "F15",
+      "name": "Delancey St-Essex St",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.718611,
+        "lon": -73.988114
+      },
+      "address": null
+    },
+    {
+      "id": "F16",
+      "name": "East Broadway",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.713715,
+        "lon": -73.990173
+      },
+      "address": null
+    },
+    {
+      "id": "F18",
+      "name": "York St",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.701397,
+        "lon": -73.986751
+      },
+      "address": null
+    },
+    {
+      "id": "F20",
+      "name": "Bergen St",
+      "lines": [
+        "F",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.686145,
+        "lon": -73.990862
+      },
+      "address": null
+    },
+    {
+      "id": "F21",
+      "name": "Carroll St",
+      "lines": [
+        "F",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.680303,
+        "lon": -73.995048
+      },
+      "address": null
+    },
+    {
+      "id": "F22",
+      "name": "Smith-9 Sts",
+      "lines": [
+        "F",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.67358,
+        "lon": -73.995959
+      },
+      "address": null
+    },
+    {
+      "id": "F23",
+      "name": "4 Av-9 St",
+      "lines": [
+        "F",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.670272,
+        "lon": -73.989779
+      },
+      "address": null
+    },
+    {
+      "id": "F24",
+      "name": "7 Av",
+      "lines": [
+        "F",
+        "FX",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.666271,
+        "lon": -73.980305
+      },
+      "address": null
+    },
+    {
+      "id": "F25",
+      "name": "15 St-Prospect Park",
+      "lines": [
+        "F",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.660365,
+        "lon": -73.979493
+      },
+      "address": null
+    },
+    {
+      "id": "F26",
+      "name": "Fort Hamilton Pkwy",
+      "lines": [
+        "F",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.650782,
+        "lon": -73.975776
+      },
+      "address": null
+    },
+    {
+      "id": "F27",
+      "name": "Church Av",
+      "lines": [
+        "F",
+        "FX",
+        "G"
+      ],
+      "coordinates": {
+        "lat": 40.644041,
+        "lon": -73.979678
+      },
+      "address": null
+    },
+    {
+      "id": "F29",
+      "name": "Ditmas Av",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.636119,
+        "lon": -73.978172
+      },
+      "address": null
+    },
+    {
+      "id": "F30",
+      "name": "18 Av",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.629755,
+        "lon": -73.976971
+      },
+      "address": null
+    },
+    {
+      "id": "F31",
+      "name": "Avenue I",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.625322,
+        "lon": -73.976127
+      },
+      "address": null
+    },
+    {
+      "id": "F32",
+      "name": "Bay Pkwy",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.620769,
+        "lon": -73.975264
+      },
+      "address": null
+    },
+    {
+      "id": "F33",
+      "name": "Avenue N",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.61514,
+        "lon": -73.974197
+      },
+      "address": null
+    },
+    {
+      "id": "F34",
+      "name": "Avenue P",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.608944,
+        "lon": -73.973022
+      },
+      "address": null
+    },
+    {
+      "id": "F35",
+      "name": "Kings Hwy",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.603217,
+        "lon": -73.972361
+      },
+      "address": null
+    },
+    {
+      "id": "F36",
+      "name": "Avenue U",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.596063,
+        "lon": -73.973357
+      },
+      "address": null
+    },
+    {
+      "id": "F38",
+      "name": "Avenue X",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.58962,
+        "lon": -73.97425
+      },
+      "address": null
+    },
+    {
+      "id": "F39",
+      "name": "Neptune Av",
+      "lines": [
+        "F",
+        "FX"
+      ],
+      "coordinates": {
+        "lat": 40.581011,
+        "lon": -73.974574
+      },
+      "address": null
+    },
+    {
+      "id": "G08",
+      "name": "Forest Hills-71 Av",
+      "lines": [
+        "E",
+        "F",
+        "FX",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.721691,
+        "lon": -73.844521
+      },
+      "address": null
+    },
+    {
+      "id": "G09",
+      "name": "67 Av",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.726523,
+        "lon": -73.852719
+      },
+      "address": null
+    },
+    {
+      "id": "G10",
+      "name": "63 Dr-Rego Park",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.729846,
+        "lon": -73.861604
+      },
+      "address": null
+    },
+    {
+      "id": "G11",
+      "name": "Woodhaven Blvd",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.733106,
+        "lon": -73.869229
+      },
+      "address": null
+    },
+    {
+      "id": "G12",
+      "name": "Grand Av-Newtown",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.737015,
+        "lon": -73.877223
+      },
+      "address": null
+    },
+    {
+      "id": "G13",
+      "name": "Elmhurst Av",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.742454,
+        "lon": -73.882017
+      },
+      "address": null
+    },
+    {
+      "id": "G14",
+      "name": "Jackson Hts-Roosevelt Av",
+      "lines": [
+        "E",
+        "F",
+        "FX",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.746644,
+        "lon": -73.891338
+      },
+      "address": null
+    },
+    {
+      "id": "G15",
+      "name": "65 St",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.749669,
+        "lon": -73.898453
+      },
+      "address": null
+    },
+    {
+      "id": "G16",
+      "name": "Northern Blvd",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.752885,
+        "lon": -73.906006
+      },
+      "address": null
+    },
+    {
+      "id": "G18",
+      "name": "46 St",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.756312,
+        "lon": -73.913333
+      },
+      "address": null
+    },
+    {
+      "id": "G19",
+      "name": "Steinway St",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.756879,
+        "lon": -73.92074
+      },
+      "address": null
+    },
+    {
+      "id": "G20",
+      "name": "36 St",
+      "lines": [
+        "E",
+        "F",
+        "M",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.752039,
+        "lon": -73.928781
+      },
+      "address": null
+    },
+    {
+      "id": "G21",
+      "name": "Queens Plaza",
+      "lines": [
+        "E",
+        "F",
+        "FX",
+        "R"
+      ],
+      "coordinates": {
+        "lat": 40.748973,
+        "lon": -73.937243
+      },
+      "address": null
+    }
+  ]
+}

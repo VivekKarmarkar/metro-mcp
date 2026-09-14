@@ -1,0 +1,15 @@
+F  Queens Blvd Express/6 Av Local   ·  Coney Island-Stillwell Av  ·  03:25Z
+DELAY RIGHT NOW: NO — no live alerts for the F
+Planned work on the F: 16 advisories.   Manhattan approach in service: 63 St.
+
+  ◀ Manhattan-bound → Jamaica-179 St  arrivals — this is the last stop ▶
+  next train terminating here at each station:
+    ○ 12m        ○ 16m         ● 0m        [● 0m]   
+━━━━━●━━━━━━━━━━━━●━━━━━━━━━━━━●▶━━━━━━━━━━◀◆━━━━━━━
+   Avenue X    Neptune Av     W 8 St    CONEY ISLAND
+     ◎ 6m         ◎ 4m         ◉ 3m        [◉ 1m]   
+  next Manhattan-bound train at each station:
+
+  ● ≤1 min  ◉ 2–4  ◎ 5–9  ○ 10+  · none   ▶ train terminating here   ◀ Manhattan-bound train
+  next train terminating here beyond the picture reaches Avenue X in 12 min
+  W 8 St = W 8 St-NY Aquarium · Coney Island = Coney Island-Stillwell Av

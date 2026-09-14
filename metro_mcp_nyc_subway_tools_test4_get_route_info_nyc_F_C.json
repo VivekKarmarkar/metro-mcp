@@ -1,0 +1,4 @@
+[
+  {"city":"nyc","routeId":"F","shortName":"F","longName":"Queens Blvd Express/6 Av Local","description":"Trains operate at all times between Jamaica-179 St, Queens, and Coney Island-Stillwell Av, Brooklyn. On weekdays, trains operate via 53 St (serving Queens Plaza, Court Sq-23 St, Lexington Av/53 St, and 5 Av/53). During nights and weekends trains operate via 63 St (serving 21 St-Queensbridge, Roosevelt Island, Lexington Av/63 St, and 57 St). F trains operate local in Manhattan and express in Queens at all times except late nights when they operate local."},
+  {"city":"nyc","routeId":"C","shortName":"C","longName":"8 Avenue Local","description":"Trains operate between 168 St, Manhattan, and Euclid Av, Brooklyn, daily from about 6 AM to 11 PM."}
+]
