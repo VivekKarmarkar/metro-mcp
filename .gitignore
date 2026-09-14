@@ -21,3 +21,7 @@ env/
 tmp/
 .cache/
 .superpowers/
+
+# Personal files, kept local
+Telegram_calls.md
+affection.md
